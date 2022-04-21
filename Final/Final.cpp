@@ -12,6 +12,7 @@ float pay(float a){
 
 int main(){
 
+cout << "Lmaoo im dying" << endl;
 int n;
 freopen("Input.txt", "r", stdin);
 cin >> n;
